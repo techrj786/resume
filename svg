@@ -1,0 +1,11 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the golden circle -->
+  <circle cx="100" cy="60" r="50" fill="gold" stroke="black" stroke-width="2"/>
+  <!-- Add the text -->
+  <text x="100" y="65" font-family="Arial" font-size="18" text-anchor="middle" fill="black">C Language</text>
+  <!-- Add the stars -->
+  <polygon points="100,110 104,120 115,120 106,125 110,135 100,130 90,135 94,125 85,120 96,120" fill="gold" stroke="black" stroke-width="1"/>
+  <polygon points="120,110 124,120 135,120 126,125 130,135 120,130 110,135 114,125 105,120 116,120" fill="gold" stroke="black" stroke-width="1"/>
+  <polygon points="80,110 84,120 95,120 86,125 90,135 80,130 70,135 74,125 65,120 76,120" fill="gold" stroke="black" stroke-width="1"/>
+  <polygon points="140,110 144,120 155,120 146,125 150,135 140,130 130,135 134,125 125,120 136,120" fill="gold" stroke="black" stroke-width="1"/>
+</svg>
